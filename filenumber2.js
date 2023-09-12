@@ -14,3 +14,4 @@ export default class filenumber2 extends Component {
 const styles = StyleSheet.create({})
 //This is rnsc
 //This is line 16 of filenumber2
+git status
